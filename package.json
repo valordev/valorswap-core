@@ -1,18 +1,19 @@
 {
-  "name": "@uniswap/v2-core",
-  "description": "🎛 Core contracts for the UniswapV2 protocol",
+  "name": "@viperswap/core",
+  "description": "🎛 Core contracts for the Viper exchange",
   "version": "1.0.1",
-  "homepage": "https://uniswap.org",
+  "homepage": "https://viper.exchange",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Uniswap/uniswap-v2-core"
+    "url": "https://github.com/ViperProtocol/viperswap-core"
   },
   "keywords": [
     "uniswap",
     "ethereum",
     "v2",
     "core",
-    "uniswap-v2"
+    "uniswap-v2",
+    "viper"
   ],
   "files": [
     "contracts",
