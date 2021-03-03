@@ -1,7 +1,7 @@
 {
   "name": "@viperswap/core",
   "description": "🎛 Core contracts for the Viper exchange",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "homepage": "https://viper.exchange",
   "repository": {
     "type": "git",
