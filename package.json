@@ -1,7 +1,7 @@
 {
   "name": "@viperswap/core",
   "description": "🎛 Core contracts for the Viper exchange",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "homepage": "https://viper.exchange",
   "repository": {
     "type": "git",
@@ -31,7 +31,7 @@
     "mocha": "^6.2.2",
     "prettier": "^1.19.1",
     "rimraf": "^3.0.0",
-    "solc": "0.5.16",
+    "solc": "0.6.12",
     "ts-node": "^8.5.4",
     "typescript": "^3.7.3"
   },
