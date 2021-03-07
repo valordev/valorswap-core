@@ -1,11 +1,11 @@
 # Uniswap V2
 
-[![Actions Status](https://github.com/ViperProtocol/viperswap-core/workflows/CI/badge.svg)](https://github.com/ViperProtocol/viperswap-core/actions)
-[![Version](https://img.shields.io/npm/v/@viperswap/core)](https://www.npmjs.com/package/@viperswap/core)
+[![Actions Status](https://github.com/VenomProtocol/venomswap-core/workflows/CI/badge.svg)](https://github.com/VenomProtocol/venomswap-core/actions)
+[![Version](https://img.shields.io/npm/v/@venomswap/core)](https://www.npmjs.com/package/@venomswap/core)
 
 In-depth documentation on Uniswap V2 is available at [uniswap.org](https://uniswap.org/docs).
 
-The built contract artifacts can be browsed via [unpkg.com](https://unpkg.com/browse/@viperswap/core@latest/).
+The built contract artifacts can be browsed via [unpkg.com](https://unpkg.com/browse/@venomswap/core@latest/).
 
 # Local Development
 

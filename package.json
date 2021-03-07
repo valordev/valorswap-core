@@ -1,11 +1,11 @@
 {
-  "name": "@viperswap/core",
-  "description": "🎛 Core contracts for the Viper exchange",
-  "version": "1.0.3",
-  "homepage": "https://viper.exchange",
+  "name": "@venomswap/core",
+  "description": "🎛 Core contracts for the Venom exchanges",
+  "version": "1.0.0",
+  "homepage": "https://venomdao.org",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ViperProtocol/viperswap-core"
+    "url": "https://github.com/VenomProtocol/venomswap-core"
   },
   "keywords": [
     "uniswap",
@@ -13,7 +13,7 @@
     "v2",
     "core",
     "uniswap-v2",
-    "viper"
+    "venom"
   ],
   "files": [
     "contracts",
